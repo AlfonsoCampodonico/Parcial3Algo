@@ -8,7 +8,8 @@ Para la clase Lista<T> implementada con una estructura doblemente enlazada desar
 /*
  * pre :
  * post:
- */
+ 
+*
 void agregarAlPrincipio(T elemento);
 
 Tener en cuenta que la estructura de la lista doblemente enlazada está definida por:
@@ -33,7 +34,7 @@ template<class T> class Lista {
     // ...
 };
 
-*/
+
 
 
 
