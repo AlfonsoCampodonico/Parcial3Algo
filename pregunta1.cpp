@@ -37,7 +37,7 @@ template<class T> class Lista {
 
 
 
-
+//RESOLUCION
 
 
 /*Pre: Requiere de un dato a insertar en la lista. Se fija si el primer valor apuntaba a null o no
@@ -124,3 +124,5 @@ En el caso de que la lista esté vacía, hay que apuntar tanto el ultimo como el
 
 El atributo "anterior" ya lo inicializa Nodo<T> en NULL, no es necesario hacerlo explítamente.
 */
+
+//PUNTUACION 2.0/5.0
